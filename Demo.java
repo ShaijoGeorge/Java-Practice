@@ -1,4 +1,5 @@
-public class Demo {
+public class Demo
+{
     public static void main(String[] args)
     {
         int a=9;
@@ -8,4 +9,6 @@ public class Demo {
         System.out.println(a);
     }
 }
-//instagram demo
+/* Source: instagram
+Output: 7
+        11  */
